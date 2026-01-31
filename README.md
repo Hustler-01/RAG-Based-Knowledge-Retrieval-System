@@ -1,4 +1,4 @@
-# Information Retrieval from Multiple PDFs with PaLM2
+# RAG-Based Knowledge Retrieval System (FAISS + LLMs)
 
 
 # How to run?
