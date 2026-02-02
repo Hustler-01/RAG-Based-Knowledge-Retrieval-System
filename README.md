@@ -55,13 +55,7 @@ This project demonstrates how **Generative AI** can be combined with **semantic 
 
 
 # How to run?
-### STEPS:
 
-Clone the repository
-
-```bash
-Project repo: [https://github.com/](https://github.com/Hustler-01/rag-based-knowledge-retrieval-system)
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
